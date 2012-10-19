@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnRa Kitchen Client</string>
+    <string name="order_header">Order ID</string>
+    <string name="name_header">Meal name</string>
+
+</resources>
